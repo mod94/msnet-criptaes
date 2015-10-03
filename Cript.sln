@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cript", "Cript\Cript.csproj", "{099D794E-8FA7-4D99-92E0-BF40EB2A9E40}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CriptSetup", "CriptSetup\CriptSetup.vdproj", "{F8B45D2D-095D-4324-B59B-BAEAC73E9AAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{099D794E-8FA7-4D99-92E0-BF40EB2A9E40}.Debug.ActiveCfg = Debug|.NET
+		{099D794E-8FA7-4D99-92E0-BF40EB2A9E40}.Debug.Build.0 = Debug|.NET
+		{099D794E-8FA7-4D99-92E0-BF40EB2A9E40}.Release.ActiveCfg = Release|.NET
+		{099D794E-8FA7-4D99-92E0-BF40EB2A9E40}.Release.Build.0 = Release|.NET
+		{F8B45D2D-095D-4324-B59B-BAEAC73E9AAB}.Debug.ActiveCfg = Debug
+		{F8B45D2D-095D-4324-B59B-BAEAC73E9AAB}.Debug.Build.0 = Debug
+		{F8B45D2D-095D-4324-B59B-BAEAC73E9AAB}.Release.ActiveCfg = Release
+		{F8B45D2D-095D-4324-B59B-BAEAC73E9AAB}.Release.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
